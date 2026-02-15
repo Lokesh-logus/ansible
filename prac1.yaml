@@ -1,0 +1,27 @@
+- name: "Lokesh"
+  dob: "1998-01-01"
+  mobileNumber: 1234556789
+  addresses:
+    -flatnumber: 102
+      street: "MG Road"
+      city: "Bangalore"
+      type : current
+
+    -flatnumber: 102
+      street: "MG Road"
+      city: "Bangalore"
+      type : permanent
+
+- name: "spam"
+  dob: "1998-01-01"
+  mobileNumber: 1234556789
+  addresses:
+    -flatnumber: 102
+      street: "MG Road"
+      city: "Bangalore"
+      type : current
+
+    -flatnumber: 102
+      street: "MG Road"
+      city: "Bangalore"
+      type : permanent
